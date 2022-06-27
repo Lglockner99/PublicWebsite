@@ -1,2 +1,2 @@
-# PublicWebsite
-my personal website
+# Liam M Glockner
+Software Developer
